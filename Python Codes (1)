@@ -1,1 +1,1 @@
-display.scroll(Image.HAPPY)
+display.show(Image.HAPPY)
